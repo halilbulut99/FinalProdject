@@ -1,0 +1,29 @@
+<Samsung>
+    _SamsungGalaxyS10
+        *SamsungGalaxyS10+,1000.99,images/jackAndJones.jpg
+        *SamsungGalaxyS10,50.00,images/diorPants.jpg
+    _SamsungGalaxyS9
+         *SamsungGalaxyS9+,1500.99,images/jackAndJones.jpg
+         *SamsungGalaxyS9,899.00,images/dior.jpg
+
+</Samsung>
+<Iphone>
+    _IphoneX
+
+
+        *IphoneX,1000.99,images/acer5750G.jpg
+        *IphoneXPro,1500.99,images/lenovo.jpg
+
+    _Iphone11Pro
+        *Iphone11Pro S9,1600.99,images/samsung.jpg
+        *Iphone11,1200.99,images/lg.jpg
+
+</Iphone>
+<Nokia>
+    _Nokia6310
+        *Nokia6310,1000.99,images/acer5750G.jpg
+
+    _Nokia6300
+        *Nokia6300,1600.99,images/samsung.jpg
+
+</Nokia>
